@@ -181,8 +181,6 @@ The model was evaluated using:
 - Residual Analysis
 - Feature Importance
 - Distribution Analysis
-<img width="1920" height="821" alt="energy_con_streamlit1" src="https://github.com/user-attachments/assets/d3c3d4ee-5003-4bbe-81c8-916a019d6791" />
-<img width="1920" height="821" alt="energy_con_streamlit1" src="https://github.com/user-attachments/assets/669ab8df-ced0-48c8-9185-d030612d1a95" />
 
 ---
 
